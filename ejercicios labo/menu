@@ -1,0 +1,14 @@
+var ceviche = false;
+var tacosAlPastor = false;
+var empanadaChilena = fase;
+var hamburguesa = true;
+
+if(ceviche) {
+  alert("que delicia");
+} else if (tacosAlPastor) {
+  alert("que rico es");
+} else if(empanadaChilena) {
+  alert("no importa");
+} else {
+  alert("hamburguesa es lo que hay");
+}

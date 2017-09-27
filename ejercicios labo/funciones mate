@@ -1,0 +1,3 @@
+var add = 9824 + 777;
+var multiply = 36325;
+console.log(add * multiply);
